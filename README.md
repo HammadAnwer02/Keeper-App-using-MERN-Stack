@@ -1,0 +1,1 @@
+This is a MERN Stack Application similar to Google Keep.
